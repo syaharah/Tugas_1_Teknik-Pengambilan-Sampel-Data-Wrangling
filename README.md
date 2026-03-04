@@ -1,1 +1,1 @@
-# Tugas_1_Teknik-Pengambilan-Sampel-Data-Wrangling
+# Proyek Teknik Pengambilan Sampel dan Data Wrangling
