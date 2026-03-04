@@ -1,0 +1,1 @@
+# Tugas_1_Teknik-Pengambilan-Sampel-Data-Wrangling
